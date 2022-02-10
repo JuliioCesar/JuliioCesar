@@ -1,10 +1,11 @@
 ### Olá! sou o Júlio! 🤖😊✋
 
-
+<img align = "right" alt="goku" src="https://user-images.githubusercontent.com/64658627/153322230-d6ed2728-678c-42ae-90f5-e9ac8f9973b0.png" width="240px" >
 <li style="list-style-type: square">Os limites só existem se você os deixar existir..☁️
 <li style="list-style-type: square"> Estudante no curso Tecnico em Informatica.👨‍💻
 <li style="list-style-type: square"> Curto jogar um lolzin. 💻👾
 <li style="list-style-type: square"> Fã de Dragon Ball 🐉
+
 
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliioCesar&layout=compactshow_icons=true&theme=dracula)
@@ -18,14 +19,11 @@
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
-
+    
 ## Tecnologias que plenajo estudar.
 <div style="displey: inline_block">
     <img align="center" alt="css3" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
      <img align="center" alt="js" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     <img align="center"  alt="css3" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <div align = "right">
-    <img  alt="goku" src="https://user-images.githubusercontent.com/64658627/153322230-d6ed2728-678c-42ae-90f5-e9ac8f9973b0.png" width="240px" >
-</div>
 </div>
