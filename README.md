@@ -24,5 +24,8 @@
     <img align="center" alt="css3" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
      <img align="center" alt="js" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center"  alt="css3" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <div align = "right">
+    <img  alt="goku" src="https://user-images.githubusercontent.com/64658627/153322230-d6ed2728-678c-42ae-90f5-e9ac8f9973b0.png" width="240px" >
+</div>
 </div>
