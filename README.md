@@ -1,7 +1,7 @@
 ### Olá! sou o Júlio! 🤖😊✋
 
 <img align = "right" alt="goku" src="https://user-images.githubusercontent.com/64658627/153322230-d6ed2728-678c-42ae-90f5-e9ac8f9973b0.png" width="240px" >
-<li style="list-style-type: square">Os limites só existem se você os deixar existir..☁️
+<li style="list-style-type: square">Os limites só existe se você os deixar existir..☁️
 <li style="list-style-type: square"> Estudante no curso Tecnico em Informatica.👨‍💻
 <li style="list-style-type: square"> Curto jogar um lolzin. 💻👾
 <li style="list-style-type: square"> Fã de Dragon Ball 🐉
