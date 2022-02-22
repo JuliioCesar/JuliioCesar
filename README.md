@@ -7,7 +7,7 @@
 <li style="list-style-type: square"> Fã de Dragon Ball 🐉
 
 
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliioCesar&layout=compact&langs_count=7&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliioCesar&layout=compact&langs_count=7&theme=dracula"/>
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-cesar-0548991a4/
 )
