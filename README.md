@@ -8,7 +8,6 @@
 
 
 
-![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliioCesar&layout=compactshow_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliioCesar&layout=compact)](https://github.com/JuliioCesar/github-readme-stats)
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-cesar-0548991a4/
