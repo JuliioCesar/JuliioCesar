@@ -1,26 +1,10 @@
-### Olá! sou o Júlio! 🤖😊✋
+### About Me
+E aí, beleza? Sou o Júlio Cesar, tenho 23 anos e tô na missão de virar um programador fullstack, mas pra ser sincero, curto mais o lado do front-end, saca? 😄 Bem-vindo ao meu cantinho! Não liga pra bagunça, tamo aqui na luta!
+### 🔗 Redes
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-cesar-0548991a4/)
 
-<img align = "right" alt="goku" src="https://user-images.githubusercontent.com/64658627/153322230-d6ed2728-678c-42ae-90f5-e9ac8f9973b0.png" width="240px" >
-<li style="list-style-type: square">Os limites só existe se você os deixar existir..☁️
-<li style="list-style-type: square"> Técnico em Informatica.👨‍💻
-<li style="list-style-type: square"> Curto jogar um lolzin. 💻👾
+### Technologies/Objectives
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,scss,java,angular)](https://skillicons.dev)
 
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliioCesar&layout=compact&theme=dracula)](https://github.com/JuliioCesar/github-readme-stats)
-
-
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-cesar-0548991a4/
-)
-## Tecnologias que estou estudando atualmente.
-<div style="displey: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</div>
-    
-## Tecnologias que planejo estudar.
-<div style="displey: inline_block">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
-    <img align="center"  alt="css3" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
+### Fun Fact About Me
+◼ Sou formado em Técnico em Informática pelo Grau Técnico, onde adquiri conhecimentos introdutórios em programação front-end e back-end, além de aprender sobre banco de dados, gerenciamento de projetos e um pouco de manutenção de hardware e configuração de redes.
